@@ -1,0 +1,64 @@
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.csproj.AssemblyReference.cache
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor_de_Catalogo.frmAgregar.resources
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor_de_Catalogo.Properties.Resources.resources
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor.Servicios.resources
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.csproj.GenerateResource.cache
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.AssemblyInfoInputs.cache
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.AssemblyInfo.cs
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Gestor de Catalogo.exe
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Gestor de Catalogo.deps.json
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Gestor de Catalogo.runtimeconfig.json
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Gestor de Catalogo.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Gestor de Catalogo.pdb
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Dominio.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Negocio.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Dominio.pdb
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\Negocio.pdb
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\bin\Debug\net8.0-windows\es\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor d.4549C00F.Up2Date
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\refint\Gestor de Catalogo.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.pdb
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\Gestor de Catalogo.genruntimeconfig.cache
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\TallerMecanico\obj\Debug\net8.0-windows\ref\Gestor de Catalogo.dll
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.dll
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\refint\Gestor de Catalogo.dll
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.pdb
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Gestor de Catalogo.exe
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Gestor de Catalogo.deps.json
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Gestor de Catalogo.runtimeconfig.json
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Gestor de Catalogo.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Gestor de Catalogo.pdb
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Dominio.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Negocio.dll
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Dominio.pdb
+E:\Celular\Gestion de articulos\bin\Debug\net8.0-windows\Negocio.pdb
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.csproj.AssemblyReference.cache
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor_de_Catalogo.frmAgregar.resources
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor_de_Catalogo.Properties.Resources.resources
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor.Servicios.resources
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.csproj.GenerateResource.cache
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.AssemblyInfoInputs.cache
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.AssemblyInfo.cs
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.csproj.CoreCompileInputs.cache
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.sourcelink.json
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor d.4549C00F.Up2Date
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\Gestor de Catalogo.genruntimeconfig.cache
+E:\Celular\Gestion de articulos\obj\Debug\net8.0-windows\ref\Gestor de Catalogo.dll

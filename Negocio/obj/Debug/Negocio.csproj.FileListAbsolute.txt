@@ -1,0 +1,18 @@
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\bin\Debug\Negocio.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\bin\Debug\Negocio.pdb
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\bin\Debug\Dominio.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\bin\Debug\Dominio.pdb
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\obj\Debug\Negocio.dll
+C:\Users\francisco benitez\OneDrive\Escritorio\Taller\Negocio\obj\Debug\Negocio.pdb
+E:\Celular\Negocio\bin\Debug\Negocio.dll
+E:\Celular\Negocio\bin\Debug\Negocio.pdb
+E:\Celular\Negocio\bin\Debug\Dominio.dll
+E:\Celular\Negocio\bin\Debug\Dominio.pdb
+E:\Celular\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Celular\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Celular\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Celular\Negocio\obj\Debug\Negocio.dll
+E:\Celular\Negocio\obj\Debug\Negocio.pdb
