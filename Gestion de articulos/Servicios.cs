@@ -101,7 +101,7 @@ namespace Gestor
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
-            
+
             if (Dgv_Articulos.CurrentRow == null)
             {
                 MessageBox.Show("Por favor, selecciona un artículo.");
@@ -110,11 +110,29 @@ namespace Gestor
 
             Articulos1 seleccionado = (Articulos1)Dgv_Articulos.CurrentRow.DataBoundItem;
 
-           
+
             frmAgregar modificar = new frmAgregar(seleccionado);
 
             modificar.ShowDialog();
             Cargar();
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            ArticuloNegocio negocio = new ArticuloNegocio();
+            Articulos1 seleccionado;
+            try {
+                DialogResult respuesta = MessageBox.Show("¿Estás seguro de que deseas eliminar este artículo?", "Confirmar eliminación", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (respuesta == DialogResult.Yes){
+                    seleccionado = (Articulos1)Dgv_Articulos.CurrentRow.DataBoundItem;
+                    negocio.eliminar(seleccionado.Id);
+                    Cargar();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Eliminado Exitosamente");
+            }
         }
     }
 

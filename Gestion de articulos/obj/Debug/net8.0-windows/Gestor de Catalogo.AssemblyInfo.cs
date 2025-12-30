@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestor de Catalogo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b808a52d42b4d41767cc7e05ecc3808651ff4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba4d3f1de19b6aa1c1e3e268bfd0436cbc80c795")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestor de Catalogo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestor de Catalogo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -94,7 +94,7 @@ namespace Negocio
                 datos.CerrarConexion();
             }
         }
-      public void modificado(Articulos1 aux)
+        public void modificado(Articulos1 aux)
         {
           AccesoDatos datos = new AccesoDatos();
             try
@@ -123,5 +123,26 @@ namespace Negocio
                 datos.CerrarConexion();
             }
         }
+        public void eliminar(int id)
+        {
+            AccesoDatos datos = new AccesoDatos();
+            try
+            {
+
+                datos.SetearConsulta("DELETE FROM ARTICULOS WHERE Id = @Id");
+                datos.SetearParametro("@Id", id);
+                datos.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                datos.CerrarConexion();
+            }
+        }
     }
-}
+  
+    }
+    
